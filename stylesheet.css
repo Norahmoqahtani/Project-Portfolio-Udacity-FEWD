@@ -1,0 +1,46 @@
+body {
+     font-family: 'Droid Sans', sans-serif;
+}
+
+.text-muted {
+    color:#888888;    
+}
+
+.text-thin {
+    font-weight: 100;
+    margin-top: .7cm;
+}
+
+.title-supper {
+	font-size: 40px;
+	display: block;
+	color: grey;	
+	font-family: 'Slabo 27px', serif;
+}
+
+.col-md-4 {
+    color:grey ;
+}
+
+.col-md-6 {
+    margin-top: 2cm;
+    font-weight: bold;
+}
+
+.img-responsive {
+   display:block;
+   height: 400px; 
+   width: 100%;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+    color:black;
+}
+
